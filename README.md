@@ -1,4 +1,5 @@
 # Hi there I'm Prathamesh Bhalke
+## A JavaScript Nerd and Front-End web dev
 # 💫 About Me:
 🔭 I’m currently working on fetching the level Conqueror up my skills to break the limitations of learning <br>👯 I’m looking to collaborate with smashing and encounter new web concepts together <br>🌱 I’m currently learning and exploring the territory of Javascript<br>💬 Ask me about Fashion and tech<br>⚡ Fun fact Im following you on GitHub
 
