@@ -11,7 +11,7 @@
 <div align="center">
 <p>I am a front-end web developer</p>
 <!-- <p>Currently working at a Chat360 startup as a Frontend developer</p> -->
-<p>I am exploring Next Js and another frontend libraries! </p>
+<!-- <p>I am exploring Next Js and another frontend libraries! </p> -->
 
 </div>
 
